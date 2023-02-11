@@ -283,6 +283,15 @@ header {
         order: 2;
     }
 }
+@media (max-width:251px){
+    .home {
+        grid-template-columns: 1fr;
+    }
+    .text{
+        padding: 1rem;
+    }
+}
+  
 @media (max-width: 568px) {
     .copyright {
         flex-direction: column;
