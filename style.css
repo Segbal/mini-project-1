@@ -173,12 +173,13 @@ header {
 }
 .about-text .btn {
     padding: 10px 20px;
-    background: #33ec9f;
+    background: rgb(33, 172, 33);
     color:black;
     border-radius: 0.5rem;
 }
 .about-text .btn:hover{
-    background: var(--gradient);
+    background: #33ec9f;
+    color: #fff;
 }
 .gallery-container {
     display: grid;
