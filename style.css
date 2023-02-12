@@ -112,7 +112,7 @@ header {
     display: none;
 }
 
-.home{
+/* .home{
     width: 100%;
     min-height: 100vh;
     position: relative;
@@ -134,7 +134,7 @@ header {
     font-family: "Poppins" sans-serif;
     font-size: 3rem;
    
-}
+} */
 .text p{
     margin: 00.5rem 0 1rem;
     font-size: 1rem;
