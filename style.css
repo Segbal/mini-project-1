@@ -379,4 +379,7 @@ footer{
     .container footer p{
         font-size: .9rem;
     }
+    iframe{
+        width: 450px;
+    }
 }
